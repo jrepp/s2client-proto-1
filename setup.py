@@ -63,6 +63,7 @@ setup(
     description='StarCraft II - client protocol.',
     author='Blizzard',
     author_email='jrepp@blizzard.com',
+    url='http://us.battle.net/sc2/en/',
     license='MIT',
     packages=[
         's2clientprotocol',
